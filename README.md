@@ -36,9 +36,9 @@ $$
 那么
 
 $$
-p(get \ current \ data \ and \ more \ extreme \ data|H_0) & = & p(3|H_0) + p(4|H_0) + \cdots  + p(200|H_0) \\
-& = & 1 - p(0|H_0) - p(1|H_0) - p(2|H_0) \\
-& = & 0.0011
+p(get \ current \ data \ and \ more \ extreme \ data|H_0)  =  p(3|H_0) + p(4|H_0) + \cdots  + p(200|H_0) \\
+ =  1 - p(0|H_0) - p(1|H_0) - p(2|H_0) \\
+ =  0.0011
 $$
 
 也就是说，p-value = 0.0011。
